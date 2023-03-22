@@ -316,12 +316,11 @@ local circles = {
 	{pos = Vector2.new(3650, -92), radius = 30},
 	{pos = Vector2.new(3610, -65), radius = 30},
 	{pos = Vector2.new(3620, -125), radius = 20},
-	{pos = Vector2.new(3200, -50), radius = 20},
-	{pos = Vector2.new(3250, -40), radius = 20},
-	{pos = Vector2.new(3230, -70), radius = 20},
-	{pos = Vector2.new(3220, -20), radius = 20},
-	{pos = Vector2.new(3370, -40), radius = 40},
-	{pos = Vector2.new(3530, -110), radius = 20}
+	{pos = Vector2.new(3400, -50), radius = 20},
+	{pos = Vector2.new(3450, -40), radius = 20},
+	{pos = Vector2.new(3430, -70), radius = 20},
+	{pos = Vector2.new(3420, -20), radius = 20},
+	{pos = Vector2.new(3500, -240), radius = 40}
 }
 
 
